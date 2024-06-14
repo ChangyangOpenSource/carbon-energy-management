@@ -24,6 +24,8 @@
 ### 体验地址
 [测试地址](https://www.changyangdt.com/carbonEnergyView/)
 
+账号：vistor
+密码：CHANGyang!@#123
 
 ## 软件架构
 
