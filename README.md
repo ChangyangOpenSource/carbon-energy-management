@@ -112,7 +112,7 @@ npm run dev
 
 ## 许可证
 
-[License](./License)
+[License](./LICENSE)
 
 ## 联系我们 
 * 如果您想使用功能更完善的能碳管理平台系统，请联系以下企业微信！
