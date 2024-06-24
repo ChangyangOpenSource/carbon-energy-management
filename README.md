@@ -3,7 +3,7 @@
   
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ![java version](https://img.shields.io/badge/JAVA-1.8+-green.svg)
-![git star](https://img.shields.io/github/stars/jdzhang1221/carbon-energy-management.svg)
+![git star](https://img.shields.io/github/stars/ChangyangOpenSource/carbon-energy-management.svg)
 </h1>
 
 ## 目录
