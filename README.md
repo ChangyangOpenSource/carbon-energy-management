@@ -96,8 +96,6 @@ npm run dev
 ## 功能展示
 ### 能碳管理平台
 - 数据大屏
-    ![](./images/数据大屏1.jpeg)
-
    ![](./images/数据大屏2.jpeg)
 - 生产能耗
    ![](./images/能源管理-生产能耗.jpeg)
